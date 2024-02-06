@@ -1,0 +1,9 @@
+com.example.sem3HomeTask
+com.example.sem3HomeTask.aspect
+com.example.sem3HomeTask.config
+com.example.sem3HomeTask.controllers
+com.example.sem3HomeTask.domain
+com.example.sem3HomeTask.dto
+com.example.sem3HomeTask.repository
+com.example.sem3HomeTask.services
+com.example.sem3HomeTask.utils
